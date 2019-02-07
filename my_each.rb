@@ -8,4 +8,4 @@ def my_each (array)
     end
 
 end
-array.map { |x| "#{x}"}
+array.map { |i| "#{1}"}
