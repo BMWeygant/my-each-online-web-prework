@@ -1,3 +1,3 @@
 def my_each (array)
-  array.each { |x| puts "#{x}" }
+  array.map { |x| "#{x}" }
 end
